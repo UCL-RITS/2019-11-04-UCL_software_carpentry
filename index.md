@@ -189,6 +189,11 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
+<h2 id="registration">Registration</h2>
+<p><a href="https://www.ucl.ac.uk/hr/UCLTrainingBookingSystem/index/results?Model_Page-QUERY=software+carpentry&x=0&y=0">Register here.</a></p>
+
+<hr/>
+
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
